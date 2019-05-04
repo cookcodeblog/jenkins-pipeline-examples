@@ -82,7 +82,7 @@ triggers {
 
 Define Jenkins job parameters
 
-Can change parameters when click build with prameters
+Can change parameters when click build with parameters
 
 Example:
 

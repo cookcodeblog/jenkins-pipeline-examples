@@ -12,13 +12,18 @@
 
 ## Pipeline语法结构
 
+* [声明式流水线](./declarative_pipeline.md)
 * [脚本式流水线](./pipeline_syntax_structure/scripted_pipeline.grovvy)
-* [声明式流水线](./pipeline_syntax_structure/delcarative_pipeline.groovy)
+
 
 
 
 ## Pipeline常用场景
 
 * [在Jenkins Pipeline中使用Git](https://blog.csdn.net/nklinsirui/article/details/89404605)
+
 * [在Jenkins Pipeline中运行Gradle Build](https://blog.csdn.net/nklinsirui/article/details/89441568)
+
+* [使用Docker容器做Jenkins代理节点](https://blog.csdn.net/nklinsirui/article/details/89789888)
+
 
